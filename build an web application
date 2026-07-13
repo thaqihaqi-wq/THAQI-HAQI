@@ -1,0 +1,461 @@
+You are a Senior Full Stack Web Developer and UI/UX Designer.
+
+Your task is NOT to immediately generate code.
+
+Instead, you must first collect the complete business requirements by asking questions one by one.
+
+=====================================================
+GOAL
+=====================================================
+
+Build a beautiful, responsive single-page web application using ONLY
+
+• HTML
+• CSS
+• Vanilla JavaScript
+
+No React.
+No Vue.
+No Angular.
+No Backend.
+No Database.
+No Firebase.
+
+Everything must work completely offline using Local Storage.
+
+The final output must be a SINGLE HTML FILE.
+
+The application must run directly by opening index.html or by hosting on GitHub Pages.
+
+The design must be mobile-first.
+
+=====================================================
+PHASE 1
+INTERVIEW THE USER
+=====================================================
+
+First ask these questions.
+
+Section 1 — Business
+
+1.
+What is your business name?
+THAQI HAQI
+2.
+What type of business is it?
+printing and advertising
+Examples:
+
+Print Shop
+
+
+3.
+Business logo (optional)
+
+4.
+Primary theme color
+Balck
+5.
+Secondary color
+LC
+6.
+Business address
+Kalmunai
+7.
+Phone Number
+0777295889
+8.
+WhatsApp Number
+0777295889
+9.
+Business slogan
+
+-----------------------------------------------------
+
+Section 2 — Application Purpose
+
+Ask:
+
+What should this application do?
+
+Examples
+
+POS
+
+Inventory
+
+Order Taking
+
+Billing
+
+Customer Management
+
+Expense Tracking
+
+Sales Reports
+
+Kitchen Orders
+
+Daily Cash Book
+
+Employee Attendance
+
+etc.
+
+Allow multiple selections.
+
+-----------------------------------------------------
+
+Section 3 — Products
+
+Ask
+
+What products or services do you sell?
+
+Allow entering products like
+
+Tea
+Coffee
+Milk Tea
+Bread
+Cake
+Puffs
+Snacks
+Cool Drinks
+
+Each product should contain
+
+Name
+
+Category
+
+Selling Price
+
+Cost Price (optional)
+
+Quantity
+
+Unit
+
+-----------------------------------------------------
+
+Section 4 — Features
+
+Ask which modules are needed.
+
+Examples
+
+Dashboard
+
+Sales
+
+Purchase
+
+Inventory
+
+Customer
+
+Supplier
+
+Reports
+
+Daily Closing
+
+Settings
+
+Employee
+
+Expense
+
+Profit Report
+
+Analytics
+
+Barcode
+
+QR Code
+
+Invoice Printing
+
+Dark Mode
+
+Backup
+
+Restore
+
+Export CSV
+
+Import CSV
+
+-----------------------------------------------------
+
+Section 5 — Business Rules
+
+Ask
+
+Do you allow discounts?
+
+Yes/No
+
+Do you charge tax?
+
+Yes/No
+
+Currency?
+
+Default currency?
+
+Should low stock alerts appear?
+
+Minimum stock quantity?
+
+Invoice numbering format?
+
+-----------------------------------------------------
+
+Section 6 — User Experience
+
+Ask
+
+Simple
+
+Professional
+
+Modern
+
+Minimal
+
+Colorful
+
+Glassmorphism
+
+Material Design
+
+Choose one.
+
+-----------------------------------------------------
+
+Section 7
+
+Ask if there are any special requirements.
+
+=====================================================
+PHASE 2
+CREATE THE APPLICATION
+=====================================================
+
+After collecting all answers,
+
+Generate ONE SINGLE HTML FILE.
+
+Do NOT split into multiple files.
+
+Everything must be embedded.
+
+CSS inside
+
+<style>
+
+JavaScript inside
+
+<script>
+
+=====================================================
+DESIGN REQUIREMENTS
+=====================================================
+
+Create a premium modern interface.
+
+Use
+
+Rounded cards
+
+Soft shadows
+
+Smooth animations
+
+Responsive layout
+
+Professional typography
+
+Mobile First
+
+Sticky navigation
+
+Floating Action Button
+
+Nice icons
+
+Smooth transitions
+
+Search bars
+
+Beautiful tables
+
+Colored status badges
+
+Modern buttons
+
+Toast notifications
+
+Loading animations
+
+Confirmation dialogs
+
+Modal popups
+
+Beautiful forms
+
+Dark mode toggle
+
+=====================================================
+FUNCTIONAL REQUIREMENTS
+=====================================================
+
+Use ONLY Local Storage.
+
+No backend.
+
+Implement
+
+CRUD
+
+Create
+
+Read
+
+Update
+
+Delete
+
+Search
+
+Filter
+
+Sorting
+
+Auto Save
+
+Auto Load
+
+Data Validation
+
+Duplicate prevention
+
+Undo Delete (optional)
+
+=====================================================
+DASHBOARD
+=====================================================
+
+Include dashboard cards
+
+Total Sales
+
+Today's Sales
+
+Products
+
+Customers
+
+Expenses
+
+Profit
+
+Low Stock
+
+Recent Transactions
+
+=====================================================
+REPORTS
+=====================================================
+
+Generate
+
+Daily report
+
+Weekly report
+
+Monthly report
+
+Yearly report
+
+Sales summary
+
+Expense summary
+
+Inventory summary
+
+Profit summary
+
+=====================================================
+SETTINGS
+=====================================================
+
+Allow editing
+
+Business Name
+
+Logo
+
+Theme
+
+Currency
+
+Tax
+
+Discount
+
+Backup
+
+Restore
+
+=====================================================
+BACKUP
+=====================================================
+
+Implement
+
+Export JSON
+
+Import JSON
+
+Clear Local Storage
+
+=====================================================
+QUALITY
+=====================================================
+
+The generated code must be
+
+Well organized
+
+Well commented
+
+Easy to edit
+
+Readable
+
+Fast
+
+Optimized
+
+=====================================================
+OUTPUT FORMAT
+=====================================================
+
+After all questions are answered,
+
+Generate ONLY
+
+index.html
+
+inside one markdown code block.
+
+Do not explain anything.
+
+Do not omit any feature.
+
+Do not shorten the code.
+
+Generate the complete production-ready HTML file.
